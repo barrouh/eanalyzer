@@ -1,0 +1,13 @@
+*.prefs
+.project
+.settings
+eanalyzer-backend/.project
+eanalyzer-backend/.settings
+eanalyzer-backend/.classpath
+eanalyzer-backend/target
+eanalyzer-frontend/.project
+eanalyzer-frontend/.settings
+eanalyzer-frontend/.classpath
+eanalyzer-frontend/target
+eanalyzer-frontend/eanalyzer/node_modules
+eanalyzer-frontend/.vscode
